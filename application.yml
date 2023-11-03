@@ -1,5 +1,6 @@
 spring:
-    name: CONFIG-SERVICESHSGVJ
+    application:
+        name: CONFIG-SERVICESHSGVJ
 eureka:
   client:
     serviceUrl:
